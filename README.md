@@ -49,4 +49,4 @@ Booking Flow: Create event type Set availability Share booking link User selects
 ### Teams
 ![Teams](./screenshots/teams.png)
 
-Author Himanshi Chauhan
+
